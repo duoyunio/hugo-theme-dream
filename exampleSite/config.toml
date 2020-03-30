@@ -1,7 +1,7 @@
 baseurl = "https://abcstack.org"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "Hugo Theme Dream"
+title = "ABCSTACK | Cloud Native Accelerator"
 theme = "dream"
 
 # copyright = ""
@@ -17,18 +17,18 @@ theme = "dream"
   # backgroundImage = "/me/background.jpg"
   linkColor = "seagreen"
 
-  author = "Yue Yang"
+  author = "ABCSTACK"
   # description = ""
   avatar = "/img/avatar.jpg"
-  motto = "Motto"
+  motto = "ABCSTACK"
   
-  email = "g1enyy0ung@gmail.com"
+  email = "docker2@163.com"
   # github = ""
   # linkedin = ""
   # codepen = ""
   # stackoverflow = ""
 
-  siteStartYear = 2016
+  siteStartYear = 2020
 
   # favicon = "/favicon.ico"
 
