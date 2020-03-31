@@ -21,7 +21,7 @@ An example:
 
   siteStartYear = 2016
 
-  favicon = "/favicon.ico"
+  favicon = "/favicon.png"
 
   # dark mode
   darkLinkColor = "darkseagreen"
@@ -81,7 +81,7 @@ Or add by yourself. Follow the template in `layouts/partials/back.html`.
 
 Set your site's start year, then the header will show as **siteStartYear - currentYear (eg: 2016 - 2018)**
 
-`favicon = "/favicon.ico"`
+`favicon = "/favicon.png"`
 
 Custom the [favicon](https://en.wikipedia.org/wiki/Favicon), place it in your `static` folder, same as `avatar`
 
